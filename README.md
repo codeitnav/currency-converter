@@ -4,6 +4,8 @@
 
 The Currency Converter is a powerful and user-friendly web application built using HTML, CSS, JavaScript, and React. This tool allows users to convert between approximately 300 currencies with real-time exchange rates, making it ideal for travelers, online shoppers, and businesses engaged in international transactions.
 
+[**Live Demo**](https://free-currency-converter-tool.vercel.app/)
+
 ## Features
 
 - **Real-Time Exchange Rates:** Access up-to-date conversion rates from reliable financial sources, ensuring accuracy for every transaction.
