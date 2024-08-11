@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(135deg, #000000, #434343, #000000);
+  overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+#about {
+  margin: 100px auto;
+  max-width: 1200px;
+  padding: 20px;
+  background-color: #374151; /* Matching bg-gray-700 */
+  color: #ffffff; /* White text color */
+  border-radius: 0.5rem;
+}
